@@ -28,7 +28,7 @@ Aqui compartilho meus projetos, estudos e experimentos enquanto curso **Análise
 ---
 
 ## 📫 Contato
-[![Email](https://img.shields.io/badge/Email-leidiaine%40exemplo.com-red)](mailto:leidiaine@exemplo.com)  
+[![Email](https://img.shields.io/badge/Email-leidiainetomaz88@gmail.com-red)](mailto:leidiaine@exemplo.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Leidiaine-black)](https://github.com/Leidiaine)
 
 ---
