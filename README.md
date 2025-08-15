@@ -51,3 +51,16 @@ def menu():
 
 if __name__ == "__main__":
     menu()
+# Lista de Tarefas em Python
+
+📌 **Descrição**  
+Aplicativo simples de lista de tarefas que roda no terminal.  
+Permite **adicionar, listar e remover** tarefas.
+
+🚀 **Tecnologias usadas**
+- Python 3
+
+📂 **Como usar**
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/meu-projeto-python.git
